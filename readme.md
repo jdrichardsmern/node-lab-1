@@ -1,7 +1,7 @@
 **Node Express & Form Lab**<br />
 **Lab 01 Instructions**
 
-1.  In your terminal, navigate into node-lab-01
+1.  In your terminal, navigate into node-lab-1
 2.  In your terminal, Initialize your Node project
 3.  In your terminal, Install your most basic dependencies (this will include
     package.json)
