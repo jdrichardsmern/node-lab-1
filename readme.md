@@ -1,5 +1,5 @@
-##Node Express & Form Lab<br />
-#Lab 01 Instructions
+**Node Express & Form Lab**<br />
+**Lab 01 Instructions**
 
 1.  In your terminal, navigate into node-lab-01
 2.  In your terminal, Initialize your Node project
